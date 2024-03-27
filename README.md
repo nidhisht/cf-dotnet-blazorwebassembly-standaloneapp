@@ -1,4 +1,4 @@
-# cf-dotnet-blazorwebassembly-standaloneapp
+# cf-dotnet8-blazorwebassembly-standaloneapp
 This is a hello world Blazor app that runs on Web Assembly
 
 ## Visual Studio 2022 - Project Type

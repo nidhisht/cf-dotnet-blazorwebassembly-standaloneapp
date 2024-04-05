@@ -1,7 +1,7 @@
 ﻿---
 applications:
 - name: cf-dotnet8-blazorstandalone
-  buildpack: dicf_dotnet_core_buildpack_latest
+  buildpack: dicf_staticfile_buildpack_latest
   instances: 1
   memory: 512M
   stack: cflinuxfs4
